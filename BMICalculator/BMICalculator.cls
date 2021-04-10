@@ -1,5 +1,7 @@
 public class BMICalculator {
-    public static int calculateBMI(){
+    public static integer calculateBMI(){
+        integer BMI = 0;
         
+        return BMI;
     }
 }
