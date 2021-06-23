@@ -1,0 +1,2 @@
+Datetime conversionDateTime = Date.today(); 
+system.debug(String.valueOf(((conversionDateTime.getTime())/1000)));
