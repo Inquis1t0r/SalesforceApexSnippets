@@ -8,6 +8,7 @@ Ref: https://refactoring.guru/design-patterns/catalog
 - [ ] abstract
 - [ ] static dispatch
 - [ ] dynamic dispatch
+- [ ] Dependency Injection
 
 ## Creational
 - [ ] Abstract Factory
@@ -28,5 +29,9 @@ Ref: https://refactoring.guru/design-patterns/catalog
 ## Behavioral
 - [ ] Chain of Responsibility
 
-## Apex Specific
-- [ ] Adapter
+## Apex Enterprise Patterns
+- [ ] Selector Layer
+- [ ] Domain Layer
+- [ ] Service Layer
+- [ ] Triggers
+- [ ] Unit of Work
